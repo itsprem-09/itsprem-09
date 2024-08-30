@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/itsprem-09">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Prem+Jani;Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Java+Javascript+C+DBMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Prem+Jani;Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Java+%7C+Javascript+%7C+C+%7C+DBMS" alt="Typing SVG" />
 </a>
 <br>
 <a href="https://github.com/itsprem-09">
@@ -22,7 +22,7 @@ Hello! I am Prem Jani, a Computer Science Student.<br><br>Learning Web Developme
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__prem__09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janiprem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__prem__09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
@@ -35,8 +35,8 @@ Hello! I am Prem Jani, a Computer Science Student.<br><br>Learning Web Developme
 <!-- ![](https://github-readme-stats.vercel.app/api?username=itsprem-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsprem-09&theme=tokyonight&hide_border=false)
 ![](https://leetcard.jacoblin.cool/premjani09?animation=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premjani-09&theme=dracula) 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=premjani-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premjani09&theme=dracula) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=premjani09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
