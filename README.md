@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/itsprem-09">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Prem+Jani;Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Java+%7C+Javascript+%7C+C+%7C+DBMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Prem+Jani;Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Flutter+%7C+Java+%7C+MERN+%7C+C+%7C+DBMS" alt="Typing SVG" />
 </a>
 <br>
 <a href="https://github.com/itsprem-09">
