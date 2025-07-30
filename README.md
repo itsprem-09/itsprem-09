@@ -6,8 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Prem+Jani;Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Flutter+%7C+Java+%7C+MERN+%7C+Javascript+%7C+DBMS" alt="Typing SVG" />
 </a>
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprem-09&label=Profile%20views&color=0e75b6&style=flat" alt="itsprem-09" /> </p>
     
 <a href="https://github.com/itsprem-09">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsprem-09&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -16,6 +14,8 @@
 <br>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprem-09&label=Profile%20views&color=0e75b6&style=flat" alt="itsprem-09" /> </p>
 
 <h2> 💫 About Me:
 </h2><br>
